@@ -1,3 +1,7 @@
 [submodule "travis-ci-example"]
 	path = travis-ci-example
 	url = https://github.com/padamkirankumar/travis-ci-example.git
+[submodule "source/shared"]
+	path = source/shared
+	url = https://github.com/padamkirankumar/travis-ci-example.git
+	branch = dev
