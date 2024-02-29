@@ -1,0 +1,3 @@
+[submodule "travis-ci-example"]
+	path = travis-ci-example
+	url = https://github.com/padamkirankumar/travis-ci-example.git
